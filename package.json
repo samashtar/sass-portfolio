@@ -1,0 +1,22 @@
+{
+  "name": "modern_portfolio",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samashtar/sass-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samashtar/sass-portfolio/issues"
+  },
+  "homepage": "https://github.com/samashtar/sass-portfolio#readme",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
